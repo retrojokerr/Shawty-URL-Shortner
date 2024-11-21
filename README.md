@@ -4,6 +4,9 @@ Shawty is a simple and efficient URL shortener application that converts long UR
 
 ---
 
+![image](https://github.com/user-attachments/assets/f90f54ce-c384-400f-9eea-96ee071673ff)
+
+
 ## Features
 - Shorten long URLs
 - Retrieve original URLs using shortened links
